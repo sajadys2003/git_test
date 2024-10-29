@@ -7,3 +7,5 @@ new feature 1: line 1
 new feature 1: line 2
 
 new line 4 from main
+
+line from remote repository
